@@ -104,7 +104,7 @@
         animateIn: 'FadepIn',
         autoplay: true,
         autoplayTimeout: 4000,
-        nav: false,
+        nav: true,
         smartSpeed: 800,
         navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
         URLhashListener: true,
